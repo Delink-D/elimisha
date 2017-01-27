@@ -1,0 +1,30 @@
+#first-form {
+	width: 50%;
+	border: 1px solid #e2e2e2;
+	border-radius: 6px;
+	margin: 20px auto;
+	padding: 20px;
+	background: #fff;
+}
+#first-form > div.form-group {
+	margin-bottom: 15px;
+}
+.modal-body > div.form-group {
+	margin-bottom: 15px;
+}
+hr {
+	margin-top: 10PX;
+}
+.content {
+	padding: 0 15px;
+}
+.total {
+	text-align: right;
+	padding-right: 10px;
+}
+.bs-callout-info {
+    border-left-color: #5bc0de;
+}
+.bs-callout-info h4 {
+    color: #5bc0de;
+}

@@ -1,0 +1,18 @@
+.form-control{
+	width:450px;
+}
+label{
+	text-align: center;
+}
+.submit{
+	margin-bottom: 20px;
+}
+.content {
+	padding: 0 15px;
+}
+.confirm {
+	cursor: pointer;
+}
+.budget {
+	margin-left: 20px;
+}

@@ -1,0 +1,44 @@
+body {
+	background: #f3f3f3;
+	/*background-image: url('http://www.shunvmall.com/data/out/243/47038302-wallpaper-ocean.jpg');*/
+}
+hr {
+	margin: 10px auto;
+	margin-bottom: 25px;
+}
+.login {
+	margin: 10% auto;
+	width: 22%;
+}
+.login-form {
+	/*border: 1px solid #333;*/
+}
+#login-btn {
+	width: 40%;
+}
+#user-img {
+	margin-top: 7px;
+	font-size: 30px;
+}
+#welcome-user {
+	height: 50px;
+	padding: 7px 15px;
+	font-size: 18px;
+	line-height: 20px;
+	color: #777;
+}
+#editform {
+	padding: 15px;
+}
+.modal-body > div.form-group {
+	margin-bottom: 15px;
+}
+
+
+/*meadia queries */
+@media (min-width: 768px){
+	.navbar-nav>li>a {
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+}
